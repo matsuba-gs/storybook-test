@@ -1,3 +1,4 @@
+import "../src/app/globals.css"; // Tailwindを適用
 import type { Preview } from "@storybook/react";
 
 const preview: Preview = {
