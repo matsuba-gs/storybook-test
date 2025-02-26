@@ -41,5 +41,10 @@
     "extends": [
       "plugin:storybook/recommended"
     ]
+  },
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
   }
 }
